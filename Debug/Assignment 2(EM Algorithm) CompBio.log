@@ -1,7 +1,22 @@
 ﻿  Assignment 2(EM Algorithm) CompBio.cpp
-c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio.cpp(65): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
-c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio.cpp(66): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
-c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio.cpp(84): warning C4018: '<': signed/unsigned mismatch
-c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio.cpp(116): warning C4018: '<': signed/unsigned mismatch
-c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio\assignment 2(em algorithm) compbio.cpp(130): warning C4018: '<': signed/unsigned mismatch
-  Assignment 2(EM Algorithm) CompBio.vcxproj -> C:\Users\karbha\source\repos\Assignment 2(EM Algorithm) CompBio\Debug\Assignment 2(EM Algorithm) CompBio.exe
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(63): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(86): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(137): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(251): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(278): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(278): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(280): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(281): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(285): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(287): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(287): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(288): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\karbha\source\repos\assignment 2(em algorithm) compbio\em-algorithm\assignment 2(em algorithm) compbio.cpp(318): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment 2(EM Algorithm) CompBio.vcxproj -> C:\Users\karbha\source\repos\Assignment 2(EM Algorithm) CompBio\EM-Algorithm\Debug\Assignment 2(EM Algorithm) CompBio.exe

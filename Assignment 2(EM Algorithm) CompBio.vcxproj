@@ -157,6 +157,8 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="dataFile.txt" />
+    <Text Include="Output.txt" />
+    <Text Include="OutputWithVariance.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
